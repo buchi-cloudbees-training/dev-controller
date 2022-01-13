@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "buchi-cloudbees-training-dev-controller"
+description: "CloudBees CI configuration bundle for the buchi-cloudbees-training dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/buchi-cloudbees-training/dev-controller"
+parent: "base"
